@@ -3,7 +3,7 @@
 A Node.js Express API that converts CSV files to JSON format and stores data in PostgreSQL.
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v18+)
