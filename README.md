@@ -41,10 +41,10 @@ curl http://localhost:3000/stats
 ## 📊 Expected Output
 
 ```
- Server running on port 3000
- Visit http://localhost:3000 for API documentation
+Server running on port 3000
+Visit http://localhost:3000 for API documentation
 Starting CSV parsing...
-Parsed 15 rows from CSV
+Parsed 57 rows from CSV
 Inserted 57 / 57 records
 Total records inserted: 57
 
